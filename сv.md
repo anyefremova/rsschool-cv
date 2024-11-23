@@ -34,3 +34,8 @@ function speedLevel(speed) {
 
 * **ITGIRLS,** 02.2023-03.2024, Frontend developer
 * **RS School**, 11.2024 - now, Front-end Course
+
+#### Languages
+
+* English - B1
+* Russian - native
