@@ -21,3 +21,16 @@ I would like to create unusual interfaces that will attract the attention of use
 * Git
 * React
 * Figma
+
+#### Code Example
+
+```
+function speedLevel(speed) {
+  return speed <= 60 ? 'Safe' : speed <= 80 ? 'Moderate Risk' : speed <= 100 ? 'High Risk' : 'Dangerous';
+}
+```
+
+#### Education
+
+* **ITGIRLS,** 02.2023-03.2024, Frontend developer
+* **RS School**, 11.2024 - now, Front-end Course
